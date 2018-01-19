@@ -5,3 +5,5 @@ Git tracks changes.
 git test
 stupid
 Creating a new branch is quick and simple.
+good
+little dog
